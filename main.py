@@ -1,1 +1,1 @@
-nnkn,nmn,mn yjufyjufy
+print("hi world")
